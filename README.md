@@ -6,7 +6,6 @@
 > where pixels dream, logic hums like film static, and every line of code carries a frame of feeling.  
 > lavender echoes hum through the code, and cats guard the source files.
 
----
 
 ## Upcoming Series
 ### _How to Not Sob When Your Code Doesn't Work_  
@@ -18,7 +17,6 @@ a tragicomedy told through existential error messages and debugging, misplaced s
 
 *episode 1 drops when my brain stops melting*
 
----
 
 ## About Me
 
@@ -32,7 +30,6 @@ hey, i'm **iris** —
 
 i wander between silent tabs of VS Code at 2AM and the soft belief that bugs are not mistakes — they're **unrealized stories** waiting for direction. 
 
----
 
 ## Skills
 
@@ -44,7 +41,6 @@ i wander between silent tabs of VS Code at 2AM and the soft belief that bugs are
 
 *(also Python, C++, JS ... but shhh that ruins the magic)*
 
----
 
 ## What You'll Find Here
 
@@ -63,7 +59,6 @@ you *may* receive:
 
 *no promises. this realm has its own mood.*
 
----
 
 ## Philosophy  
 
@@ -74,14 +69,12 @@ every commit, a cut.
 
 i believe in the art of imperfection — the frame left unfocused, the dream half-rendered. 
 
----
 
 ## Reach Out
 
 if you found this place by fate, open an issue with **"hey there!"**  
 or simply add me on discord **@dazzleblur**
 
----
 
 ## Current Status
 
@@ -91,7 +84,6 @@ currently_executing = glam_up(life)
 
 *work in progress. always.*
 
----
 
 > *"this isn't a portfolio. it's a projection."*  
 > — **dazzleblur**
